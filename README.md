@@ -23,9 +23,15 @@
   <img align="center" alt="git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img align="center" alt="git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
    -->
-         
-          
-          
+<!--          
+  ### 👉 Other Tools and Technologies
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+           -->
                
 <!--   <img align="center" alt="mac" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macOS/macOs-original.svg"> -->
 </div><br>

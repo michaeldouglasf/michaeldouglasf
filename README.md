@@ -44,5 +44,12 @@
   <a href="https://www.linkedin.com/in/michaeldouglasf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
- 
+ <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=michaeldouglasf&label=Profile%20views&color=0e75b6&style=flat"
+    alt="michaeldouglasf" /> 
+  </p>
+
+<br>
+
+
+
 </div>

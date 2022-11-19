@@ -1,7 +1,7 @@
 ##  Hi I'm Michael Marcelino, FullStack Web Developer !!
 <div align="center">
   <a href="https://github.com/michaeldouglasf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michaeldouglasf&show_icons=false&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michaeldouglasf&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldouglasf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center"  style="display: inline_block"><br>

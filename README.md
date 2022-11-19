@@ -34,7 +34,6 @@
            
                
 ![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-<img align="center" alt="mac" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macOS/macOs-original.svg">
 </div><br>
 
   ##
